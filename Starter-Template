@@ -1,0 +1,90 @@
+    <title>Gioco PS4!</title>
+    <!-- Required meta tags -->
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    
+    <body style="background-color:white">
+    
+    <div class="container bq-color">
+        
+        
+        <div class="row">
+        
+         <div clas="col-sm-12">
+
+            <link rel="stylesheet" href="css/bootstrap-reboot.min.css">
+            <link rel="stylesheet" href="css/bootstrap-grid.min.css">
+            <link rel="stylesheet" href="css/bootstrap.min.css">
+
+
+        <div class="container bq-color">
+        <h1 style="background-color:green;">Mercenari TF2</h1>
+        <div class="row">
+            <div clas="col-sm-12">
+              <img src="Gioco PC/Scaut.jpg" alt="immagine di un titolo" clas="img-fluid Scaut" al ="Scaut" style="float:right;margin:lpx">
+               <h2><strong>Scaut</strong></h2>Nato e cresciuto a Boston, Massachusetts, l'Esploratore è un ttaccabrighe on una mazza da baseball e un carattere indisponente. È il più veloce dei mercenari sul campo di battaglia, il suo Doppio Salto lascia i nemici più lenti come il Grosso ad affannarsi per tenere il passo mentre schiva il fuoco nemico. Equipaggiato con il Fucile a Corto Raggio, una Pistola, e una Mazza, l'Esploratore è l'ideale per uno stile di combattimento aggressivo e di supporto. L'Esploratore è un'ottima classe per una rapida azione "Mordi e Fuggi" in quanto in grado di provocare gravi danni ai nemici grazie alla sua capacità di infiltrarsi, danneggiare, e scomparire prima di essere ndividuato. Nonostante ciò, L'esploratore ha una delle saluti più basse tra tutti i personaggi, Rendendolo vulnerabile quando si trova in prima linea. Comunque, L'esploratore può correre avanti e indietro molto velocemente, permettendogli di portare la squadra alla vittoria senza che il team nemico e ne accorga in tempo
+              <p><strong>Scaut</strong> 
+
+              </p>        
+            </div>
+          </div>
+
+            <div class="row">
+            <div clas="col-sm-12">
+              <img src="Gioco PC/Soldato.jpg" alt="immagine di un titolo" clas="img-fluid Soldato" al ="Soldato" style="float:right;margin:lpx">
+
+               <h2><strong>Soldato</strong></h2>Un patriota psicopatico proveniente dal cuore dell'America, il Soldato (noto come il Signor Jane Doe) è una delle principali classi d'assalto della squadra. Pur essendo una delle classi più semplici da imparare ad usare, è ben lontana da essere la più debole. Infatti, se giocato nel modo giusto, il Soldato può essere una delle classi più pericolose. Equippaggiato con il suo Lanciarazzi e salute da vendere, il Soldato è una classe molto versatile adatta ad entrambi i ruoli di difesa e di attacco                  
+               <p><strong></strong>
+
+              </p>        
+            </div>
+          </div>
+
+            <div class="row"> 
+             <div clas="col-sm-12">
+              <img src="Gioco PC/Pyro.jpg" alt="immagine di un titolo" clas="img-fluid Pyro" al ="Pyro" style="float:right;margin:lpx">
+                <h2><strong>Pyro</strong></h2>Un bofonchiante psicopatico di origine indeterminata, il Piro è animato da un’ardente passione per il fuoco e per tutto ciò che ha a che fare con le fiamme. Armato di un Lanciafiamme artigianale, il Piro può dar fuoco ai propri nemici, consumando lentamente la loro salute con i conseguenti danni da bruciatura. Il Piro, inoltre, indossa una tuta foderata d’amianto che lo protegge da qualsiasi danno da bruciatura.
+
+                A causa della gittata limitata del Lanciafiamme il Piro si affida abbondantemente alle tattiche di imboscata per cogliere i propri avversari alla sprovvista. Uno dei ruoli vitali del Piro è quello di controllare la presenza di Spie; un semplice sbuffo di fiamme può dar fuoco sia alle Spie mimetizzate che a quelle travestite, permettendo quindi al Piro di allontanarle con le buone maniere e la tipica gentilezza che dimostra nei confronti di tutti i suoi avversari: in pratica,   nessuna
+              <p><strong></strong> 
+
+              </p>        
+           </div>
+          </div>
+
+              
+              <div clas="col-sm-12">
+              <img src="Gioco PC/Demolitore.jpg" alt="immagine di un titolo" clas="img-fluid Demolitore" al ="Demolitore" 
+              style="float:right;margin:lpx">
+                <h2><strong>Demolitore</strong></h2>Il Demolitore è un tracannatore di sidro , esperto di demolizioni proveniente dalla cittadina scozzese di Ullapool, ed è uno dei membri più versatili della squadra. Un maestro degli esplosivi, il demolitore infligge strategicamente danno indiretto,nei combattimenti a media distanza ed un imponente danno ad area. Armato con il suo Lanciagranate e il Mortaio bombe adesive, il Demolitore sfrutta il suo unico occhio buono e la conoscenza dell'ambiente che lo circonda per far detonare le sue cariche al momento opportuno e lanciare in aria i suoi nemici, solitamente in più pezzi.
+
+                Se qualcuno dovesse passare oltre alla sua ordinanza esplosiva, rimarrebbero shockati nell'imparare che il demolitore è estremamente abile nel combattimento in mischia, essendo uno dei più letali combattenti in mischia del gioco con una varietà di potenti armi da mischia sbloccabili nel suo arsenale.
+
+                Il Demolitore, eccelle nella distruzione rapida; può far rimbalzare le sue granate con angoli creativi per creare il caos sulle postazione delle torrette nemiche, rimanendo nel frattempo al sicuro senza avere contatto visivo. facendo rimbalzare le sue bombe attorno agli angoli per negare la conquista di aree, e sono efficaci nel tenere lontani gli avversari da ogni carrello, punto di controllo, o segreti che ritiene debbano rimanere inaccesibili.
+              <p><strong></strong> 
+
+              </p>        
+           </div>
+          </div
+
+              <div clas="col-sm-12">
+              <img src="Gioco PC/Grosso.jpg" alt="immagine di un titolo" clas="img-fluid Grosso" al ="Grosso" style="float:right;margin:lpx">
+                <h2><strong>Grosso</strong></h2>Il Grosso, un colossale omone proveniente dall'Unione Sovietica, è il più imponente e possibilmente il più pericoloso mercenario di Team Fortress 2. Egli vanta una straordinaria resistenza ed una devastante potenza di fuoco garantita dalla sua fidata Mitragliatrice Pesante, il cui volume di fuoco gli permette di falciare rapidamente quei poppanti, codardi, minuscoli avversari nel giro di pochi secondi. Ma ciò ha i suoi svantaggi: quando il Grosso fa ruotare le canne della sua Mitragliatrice il suo passo già di per se poco sollecito raggiunge quello di una lumaca, rendendolo un bersaglio molto facile per Spie e Cecchini. Con il suo passo flemmatico il Grosso è tenuto a contare sull'appoggio di Medici ed Ingegneri che gli permettano di continuare a combattere. Oltre a decimare intere squadre nemiche, il Grosso può offrire un ulteriore sostegno ai suoi compagni offrendo loro una ricarica di salute grazie al suo Sandvich, probabilmente il più ghiotto kit di salute presente nel gioco
+              <p><strong></strong> 
+
+              </p>        
+           </div>
+          </div
+
+              <div clas="col-sm-12">
+              <img src="Gioco PC/Ingegnere.jpg" alt="immagine di un titolo" clas="img-fluid Ingegnere" al ="Ingegnere" style="float:right;margin:lpx">
+                <h2><strong>Ingegnere</strong></h2>Un carismatico, amabile Texano, con un talento naturale per tutto ciò che è meccanico, l’ Ingegnere sceglie di costruire e proteggere le sue costruzioni da cui la squadra trarrà beneficio, anziché entrare nel combattimento diretto. L’arsenale di accessori dell’Ingegnere comprende i mitra automatici, torrette automatiche che aprono il fuoco contro qualunque nemico nell’area d’attacco, il Dispenser, un dispositivo che ripristina munizioni e salute dei compagni vicini e il Teletrasporto, che permette ai propri compagni di spostarsi velocemente da un punto all’altro.
+
+                In ogni caso i congegni dell’Ingegnere sono sotto costante minaccia dagli esplosivi e delle Spie; un buon Ingegnere deve sempre tenere d’occhio i propri congegni e mantenerli in buono stato. Quando l’Ingegnere ha la necessità di sporcarsi le mani, ha comunque le sue armi, che combinate con le sue creazioni lo rendono capace di occuparsi da solo di un combattimento
+              <p><strong></strong> 
+              
+              <a href= "Parte 2.html"> Procedi </a>
+
+              </p>        
+           </div>
+          </div
