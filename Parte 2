@@ -1,0 +1,46 @@
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    
+    <body style="background-color:white">
+    
+    <div class="container bq-color">
+        
+        
+        <div class="row">
+        
+         <div clas="col-sm-12">
+
+            <link rel="stylesheet" href="css/bootstrap-reboot.min.css">
+            <link rel="stylesheet" href="css/bootstrap-grid.min.css">
+            <link rel="stylesheet" href="css/bootstrap.min.css">
+
+        <div class="container bq-color">
+        <h1 style="background-color:green;">Mercenari TF2</h1>
+        <div class="row">
+            <div clas="col-sm-12">
+              <img src="Gioco PC/Medico.jpg" alt="immagine di un titolo" clas="img-fluid Medico" al ="Medico" style="float:right;margin:lpx">
+                <h2><strong>Medico</strong></h2>Un uomo di medicina tedesco con un'alquanto tenue aderenza all'etica medica, il Medico è nondimeno la classe principale di cura della squadra. Nonostante il Medico non vanti il miglior arsenale per uno scontro diretto, spesso si ritrova in prima linea a curare i compagni di squadra feriti cercando allo stesso tempo di stare alla larga dai guai. Quando la sua pistola medica sarà puntata su un compagno, questo ripristinerà velocemente la sua salute. I compagni non feriti saranno sovracurati fino ad un limite massimo del 150%. Mentre cura, la barra della ÜberCarica continua a riempirsi finché, una volta piena, l'arma comincia a scintillare con piccole scariche ed a quel punto può attivare una carica della durata di otto secondi che elargirà a se stesso ed al suo paziente diversi effetti benefici di otto secondi, dall'invulnerabilità temporanea (con la normale pistola medica), colpi critici garantiti (usando la Kritzkrieg) 
+              <p><strong></strong> 
+
+              </p>        
+           </div>
+          </div
+          
+          <div clas="col-sm-12">
+              <img src="Gioco PC/Cecchino.jpg" alt="immagine di un titolo" clas="img-fluid Cecchino" al ="Cecchino" style="float:right;margin:lpx">
+                <h2><strong>Cecchino</strong></h2>Un rude tiratore scelto proveniente dall'Australia rurale, il Cecchino preferisce colpire i suoi bersagli da lontano. Nascosto in luoghi elevati o difficili da vedere, il Cecchino può facilmente beccare le classi più lente come il Grosso. È inoltre l'ideale per eliminare i Medici nemici, dando alla sua squadra l'opportunità di avanzare.
+
+                Benché il Cecchino tenda a rimanere distante dal fronte, l'Arco da Cacciatore gli permette di avanzare in prima linea scagliando una miriade di frecce letali, mentre i suoi misteriosi e antichi poteri di Giarate possono aumentare il danno inflitto ai nemici da lui e dai suoi compagni di squadra
+              <p><strong></strong> 
+
+              </p>        
+           </div>
+          </div
+
+          <div clas="col-sm-12">
+              <img src="Gioco PC/Spia.jpg" alt="immagine di un titolo" clas="img-fluid Spia" al ="Spia" style="float:right;margin:lpx">
+                <h2><strong>Spia</strong></h2>Chiamato a raccolta da un'indeterminata zona della Francia, la Spia è un appassionato di abiti dal look tagliente - e di coltelli ancora più taglienti - che fa affidamento sulla sua furtività ed i suoi inganni per aiutare la squadra. Usando il suo esclusivo set di orologi mimetici, può rendersi invisibile e persino inscenare la propria morte, facendo abbassare la guardia agli ignari nemici. Il suo kit di travestimento gli permette di assumere la forma di qualsiasi classe, permettendogli di integrarsi ed intrufolarsi dietro le linee nemiche prima di accoltellare i suoi sprovvisti 'compagni' nella schiena. Infatti, una pugnalata alle spalle con il suo fidato coltello permette alla Spia di sbarazzarsi di qualsiasi nemico con un singolo fendente.
+              <p><strong></strong> 
+
+              </p>        
+           </div>
+          </div
